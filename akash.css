@@ -14,6 +14,14 @@
 	margin: 30px auto;
 	display: block;
 }
+.grid3 {
+	display: flex;
+	flex-wrap: wrap;
+	height: 300px;
+	width: 400px;
+	margin: 30px auto;
+	display: block;
+}
 .grid2 {
 	display: flex;
 	flex-wrap: wrap;
@@ -25,6 +33,11 @@
 .im {
 	height: 150px;
 	width: 150px;
+
+}
+.im1 {
+	height: 100px;
+	width: 100px;
 
 }
 h1 {
