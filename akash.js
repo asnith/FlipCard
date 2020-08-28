@@ -252,7 +252,7 @@ if(str=="2 * 3"){
 }else if(str=="3 * 4"){
     array=arrays.slice(0,12)
     time=500
-    virat.classList.add("grid")
+    virat.classList.add("grid3")
     console.log(array)
 }else{
     array=arrays
@@ -272,7 +272,7 @@ for(let i=0;i<array.length;i++){
  	x.setAttribute("src","image.jfif")
  	x.setAttribute("id",i)
  	x.addEventListener("click",fun)
- 	x.classList.add("im")
+ 	x.classList.add("im1")
  	p.appendChild(x)
  }
 var count=0
